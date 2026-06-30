@@ -45,12 +45,12 @@ A `CommunityVault` contract that:
 
 ## Concepts Covered
 
-| Week 1 Module | What you will practice |
-|---|---|
+| Week 1 Module       | What you will practice                                                        |
+| ------------------- | ----------------------------------------------------------------------------- |
 | 1.1 Execution Model | `msg.value`, `msg.sender`, state via mappings, events and logs, gas awareness |
-| 1.2 Solidity & ABI | ERC-20 standard, `payable`, modifiers, visibility, reentrancy, access control |
-| 1.3 Tooling | Compile, test (including time manipulation for deadline), deploy |
-| 1.4 Infrastructure | OpenZeppelin Contracts as a dependency |
+| 1.2 Solidity & ABI  | ERC-20 standard, `payable`, modifiers, visibility, reentrancy, access control |
+| 1.3 Tooling         | Compile, test (including time manipulation for deadline), deploy              |
+| 1.4 Infrastructure  | OpenZeppelin Contracts as a dependency                                        |
 
 ## Bonus (Optional)
 
@@ -68,5 +68,5 @@ You may use **Hardhat**, **Foundry**, or both.
 - [OpenZeppelin ERC-20](https://docs.openzeppelin.com/contracts/5.x/erc20)
 - [OpenZeppelin Access Control](https://docs.openzeppelin.com/contracts/5.x/access-control)
 - [Solidity by Example – Crowd Fund](https://solidity-by-example.org/app/crowd-fund/)
-- [Hardhat – Testing with time](https://hardhat.org/hardhat-network/docs/reference#hardhat_mine)
+- [Hardhat – Testing with time](https://hardhat.org/docs/reference/json-rpc-methods#hardhat_mine)
 - [Foundry – Cheatcodes (vm.warp)](https://book.getfoundry.sh/cheatcodes/)
